@@ -1,0 +1,1 @@
+Rust makes memory safety easy to learn through practice.
